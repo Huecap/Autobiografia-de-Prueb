@@ -1,0 +1,1 @@
+En este video te enseño qué es y cómo crear un readme.md, los repositorios de github utilizan este archivo para presentar tu proyecto. Este archivo pretende explicar tu proyecto, y puede ser tan grande como quieras, procura que sea descriptivo y que las personas obtengan toda la información necesaria para contribuir con tu proyecto.
