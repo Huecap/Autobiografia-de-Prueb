@@ -2,3 +2,6 @@
 Prueba numero 2 333
 Este texto es una prueba para aprender a usar git
 Prueba numero 2 xd
+
+
+Vamos a ver que pasa con estas cosas
